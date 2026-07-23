@@ -1,0 +1,16 @@
+.pink-bg{
+    background-color: #fceae8;
+}
+.pink-btn{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    border:none;
+    padding: 7px 20px;
+    color:white;
+    cursor: pointer;
+}
+
+.banner-img {
+    height: 420px;
+    object-fit: contain;
+    width: auto;
+}
